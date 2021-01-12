@@ -1,0 +1,9 @@
+bmw|x11|2020|beje|coupe|
+bmw|x11|2020|azul|coupe|
+nissan|sentra|2001|prata|sedan|
+peugeot|308|2016|beje|coupe|
+Yamaha|YBR 125|2019|verde com preto|moto|
+Ford|Fusion|2021|Azul|Coupe|
+Peugeot|308|2020|Prata|Seda|
+Nissan|Versa|2021|Vermelho|Sedam|
+Audi|A8|2019|Branco|Esportivo|
